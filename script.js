@@ -1,9 +1,9 @@
-cityInput = document.getElementById("inputCity");
-subBtn = document.getElementById("submitBtn");
-cityName = document.getElementById("cityName");
-cityDisc = document.getElementById("cityDicript");
-degree = document.getElementById("degree");
-wind = document.getElementById("wind");
+const cityInput = document.getElementById("inputCity");
+const subBtn = document.getElementById("submitBtn");
+const cityName = document.getElementById("cityName");
+const cityDisc = document.getElementById("cityDicript");
+const degree = document.getElementById("degree");
+const wind = document.getElementById("wind");
 
 const apiKey = "3045dd712ffe6e702e3245525ac7fa38";
 
