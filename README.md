@@ -4,7 +4,7 @@ html, css, java script weather app
 
 ## Screen Shots
 
-<img src="https://github.com/aminfarzanepey/weatherJsApp.git/blob/main/screenShot/screenShot.png?raw=true" width="600">
+<img src="https://github.com/aminfarzanepey/weatherJsApp/blob/main/screenShot/screenShot.png" width="600">
 
 ## Installation
 
